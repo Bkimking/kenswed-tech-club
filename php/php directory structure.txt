@@ -1,0 +1,26 @@
+- Connect
+  - connect.php
+
+- Dashboard
+  - dashboard
+    - dashboard.php
+  - admin_dashboard
+    - admin_dashboard.php
+  - super_admin_dashboard
+    - super_admin_dashboard.php
+
+- registration&login
+  - registration.php
+  - login.php
+
+- auth
+  - auth.php
+
+-logout
+  -logout.php
+
+-change_password
+
+-error
+
+-forgot_password
